@@ -2,10 +2,10 @@ title: Awshesh Srivastav
 email: awshesh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Father, Tennis Player and a/an Analytics/Data Scientist/AI Specialist showcasing my key projects over last 12+ years of analytics journey changing 
-  my designation from Analysts to Analytics Manager to Data Scientist through chaging tides and turns. 
+  my designation from Analysts to Analytics Manager to Data Scientist through chaging tides and turns
   
 
-show_downloads : True
+show_downloads : False
 theme: jekyll-theme-minimal
 
 
